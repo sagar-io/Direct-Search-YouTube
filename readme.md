@@ -4,7 +4,7 @@ When the user open youtube.com to search something useful, Youtube shows very at
 
 ## Live Link
 
-[SearchYT](search-io.netlify.app)
+[SearchYT](https://search-io.netlify.app)
 
 ## Contributing
 

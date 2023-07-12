@@ -11,4 +11,8 @@ function handleSearchSubmit() {
     link.click(); 
 }
 
+search.addEventListener('keydown', (e) => {
+    if(e.key == 'Enter')
+      return handleSearchSubmit()
+})
 searchBtn.addEventListener('click', handleSearchSubmit)
